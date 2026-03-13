@@ -1,0 +1,3 @@
+// Content for main.tsx
+
+// Your TypeScript code...
